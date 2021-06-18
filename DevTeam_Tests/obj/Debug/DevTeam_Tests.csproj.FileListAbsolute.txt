@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\bin\Debug\DevTeam_Tests.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\bin\Debug\DevTeam_Tests.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\obj\Debug\DevTeam_Tests.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\obj\Debug\DevTeam_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\obj\Debug\DevTeam_Tests.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Tests\obj\Debug\DevTeam_Tests.pdb

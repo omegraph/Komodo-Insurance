@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Console\obj\Debug\DevTeam_Console.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\DevTeamApp\DevTeam_Console\obj\Debug\DevTeam_Console.csproj.CoreCompileInputs.cache
